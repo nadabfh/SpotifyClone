@@ -14,9 +14,6 @@ PolyPlay is a full-stack web application designed for managing and listening to 
 - [Configuration](#configuration)
 - [Documentation](#documentation)
 - [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Features
 
